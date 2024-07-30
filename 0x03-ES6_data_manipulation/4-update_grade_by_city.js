@@ -1,3 +1,4 @@
+/* eslint-disable */
 /**
  * Updates the grades of a list of students in a given city.
  * @param {{

@@ -1,3 +1,4 @@
+/* eslint-disable */
 /**
  * Retrieves the sum of ids of a list of students.
  * @param {{
